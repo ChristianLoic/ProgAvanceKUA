@@ -1,0 +1,11 @@
+M:\visual studio 2017\SQL Server Management Studio\MvcFeeder\MvcFeeder\bin\Debug\netcoreapp2.0\MvcFeeder.deps.json
+M:\visual studio 2017\SQL Server Management Studio\MvcFeeder\MvcFeeder\bin\Debug\netcoreapp2.0\MvcFeeder.runtimeconfig.json
+M:\visual studio 2017\SQL Server Management Studio\MvcFeeder\MvcFeeder\bin\Debug\netcoreapp2.0\MvcFeeder.runtimeconfig.dev.json
+M:\visual studio 2017\SQL Server Management Studio\MvcFeeder\MvcFeeder\bin\Debug\netcoreapp2.0\MvcFeeder.dll
+M:\visual studio 2017\SQL Server Management Studio\MvcFeeder\MvcFeeder\bin\Debug\netcoreapp2.0\MvcFeeder.pdb
+M:\visual studio 2017\SQL Server Management Studio\MvcFeeder\MvcFeeder\obj\Debug\netcoreapp2.0\MvcFeeder.csprojAssemblyReference.cache
+M:\visual studio 2017\SQL Server Management Studio\MvcFeeder\MvcFeeder\obj\Debug\netcoreapp2.0\MvcFeeder.csproj.CoreCompileInputs.cache
+M:\visual studio 2017\SQL Server Management Studio\MvcFeeder\MvcFeeder\obj\Debug\netcoreapp2.0\MvcFeeder.AssemblyInfoInputs.cache
+M:\visual studio 2017\SQL Server Management Studio\MvcFeeder\MvcFeeder\obj\Debug\netcoreapp2.0\MvcFeeder.AssemblyInfo.cs
+M:\visual studio 2017\SQL Server Management Studio\MvcFeeder\MvcFeeder\obj\Debug\netcoreapp2.0\MvcFeeder.dll
+M:\visual studio 2017\SQL Server Management Studio\MvcFeeder\MvcFeeder\obj\Debug\netcoreapp2.0\MvcFeeder.pdb

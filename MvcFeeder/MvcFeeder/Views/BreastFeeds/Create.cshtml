@@ -1,0 +1,53 @@
+﻿@model MvcFeeder.Models.BreastFeed
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h2>Record</h2>
+
+<h4>BreastFeed</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ReleaseDate" class="control-label"></label>
+                <input asp-for="ReleaseDate" class="form-control"  />
+                <span asp-validation-for="ReleaseDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Side" class="control-label"></label>
+                <input asp-for="Side" class="form-control"  placeholder="Left or Right" />
+                <span asp-validation-for="Side" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="hour" class="control-label"></label>
+                <input asp-for="hour" class="form-control" placeholder="(0-24)No Decimal" />
+                <span asp-validation-for="hour" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Note" class="control-label"></label>
+                <input asp-for="Note" class="form-control" placeholder="Something special ?" />
+                <span asp-validation-for="Note" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
